@@ -1,0 +1,5 @@
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Hello my name is khan and i am your teacher to teach you how to read and write.
